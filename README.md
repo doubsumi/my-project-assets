@@ -1,0 +1,2 @@
+# my-project-assets
+assets
